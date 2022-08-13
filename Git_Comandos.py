@@ -9,4 +9,9 @@
 #git log -- oneline- lista de todos los commits
 #git mv "nombre Antiguo""Nombre Nuevo" - Renombrar archivo
 #git restore --Staged - Pasar un archivo a un zona anterior
+#touch.gitignore - Crear archivo git ignore
+    #nombreArchivo - Ignorar archivo
+    #rutaRelativa - Ignorar archivo
+    #*.extensión - Ignorar archvios con esa extensión
+    #!nombreArchivo - excepcion
 
