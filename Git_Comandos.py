@@ -5,5 +5,6 @@
 #git add. - añade todos los archivos en la carpeta del directorio cargada
 #git status - comprobar que esta añadido
 #git commit -m  "mensaje. como "creación de archivo .py"
+#git commit -am Realizar commit sin pasar los archivos por la zona de preparación
 #git log -- oneline- lista de todos los commits
 
